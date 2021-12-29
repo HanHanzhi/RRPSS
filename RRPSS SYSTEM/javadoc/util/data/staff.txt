@@ -1,0 +1,7 @@
+employeeid;staffname;gender;jobtitle;
+1;John;m;server;
+2;Kate;f;server;
+3;Alex;m;server;
+4;Mary;f;server;
+5;Tony;m;cook;
+6;Jane;f;cook;

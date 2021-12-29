@@ -1,0 +1,11 @@
+dd/MM/yyyy HH:mm;refNo;tableNo;staffId;fufill;member;itemCount;promoCount;{itemIds};{promoIds};
+01/11/2021 10:30;1;2;3;true;false;3;0;2;4;2;
+01/11/2021 11:15;2;2;3;true;false;2;1;1;6;2;
+01/11/2021 12:40;3;2;3;true;false;3;0;3;8;2;
+02/11/2021 21:45;4;3;2;true;false;2;1;1;5;1;
+06/11/2021 12:18;5;8;1;true;false;1;0;9;
+14/11/2021 11:12;6;2;4;true;false;1;0;9;
+14/11/2021 11:33;1;2;3;true;false;3;0;2;5;1;
+14/11/2021 11:50;2;2;3;true;false;2;1;1;6;2;
+14/11/2021 12:40;3;2;3;true;false;2;1;3;8;1;
+

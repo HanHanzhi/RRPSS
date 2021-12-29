@@ -1,0 +1,3 @@
+10;Coffee;arabica;3.0;
+11;Milk;fresh;3.4;
+12;Juice;freshly made;3.7;

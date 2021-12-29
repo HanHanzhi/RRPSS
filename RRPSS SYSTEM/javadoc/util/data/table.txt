@@ -1,0 +1,9 @@
+tableNo;tableCapacity;isFree
+1;2;true;
+2;2;true;
+3;4;true;
+4;4;true;
+5;6;true;
+6;6;true;
+7;8;true;
+8;10;true;

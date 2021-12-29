@@ -1,0 +1,4 @@
+4;Rice;multi-grain;6.5;
+5;Noodle;tasty;4.9;
+6;Burger;juicy;7.2;
+7;Wrap;healthy fresh;7.5;

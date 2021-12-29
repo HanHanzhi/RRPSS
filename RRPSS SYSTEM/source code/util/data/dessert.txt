@@ -1,0 +1,2 @@
+8;Gelato;creamy;4.2;
+9;Waffle;crispy and hot;7.9;
